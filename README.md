@@ -1,24 +1,24 @@
 This repository contains **10 fundamental C programming problems** that cover essential concepts, algorithms, and common programming pitfalls.
 
- [Question 01]:- 
+ Question 01:- 
  Array Sum |Timecomplexity :- O(n) |
- [Question 02]:- 
+ Question 02:- 
  Prime Number Check |Timecomplexity :- O(n) |
- [Question 03]:-
+ Question 03:-
  Factorial (Recursion) |Timecomplexity :- O(n) |
- [Question 04]:- 
+ Question 04:- 
  Diamond Pattern |Timecomplexity :- O(n²) |
- [Question 05]:-
+ Question 05:-
  Armstrong Numbers |Timecomplexity :- O(k×log n) |
- [Question 06]:-
+ Question 06:-
  GCD & LCM |Timecomplexity :- O(log min(a,b)) 
- [Question 07]:-
+ Question 07:-
  Decimal to Binary |Timecomplexity :- O(log n) |
- [Question 08]:-
+ Question 08:-
  Matrix Multiplication |Timecomplexity :- O(n³) |
- [Question 09]:-
+ Question 09:-
  Magic Square Validation |Timecomplexity :- O(n²) |
- [Question 10]:-
+ Question 10:-
  Dangling Pointer & Macro|Timecomplexity :- O(1) |
 
 ---
