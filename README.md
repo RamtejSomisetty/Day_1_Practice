@@ -1,25 +1,65 @@
 This repository contains **10 fundamental C programming problems** that cover essential concepts, algorithms, and common programming pitfalls.
 
- Question 01:- 
- Array Sum |Timecomplexity :- O(n) |
- Question 02:- 
- Prime Number Check |Timecomplexity :- O(n) |
- Question 03:-
- Factorial (Recursion) |Timecomplexity :- O(n) |
- Question 04:- 
- Diamond Pattern |Timecomplexity :- O(n²) |
- Question 05:-
- Armstrong Numbers |Timecomplexity :- O(k×log n) |
- Question 06:-
- GCD & LCM |Timecomplexity :- O(log min(a,b)) 
- Question 07:-
- Decimal to Binary |Timecomplexity :- O(log n) |
- Question 08:-
- Matrix Multiplication |Timecomplexity :- O(n³) |
- Question 09:-
- Magic Square Validation |Timecomplexity :- O(n²) |
- Question 10:-
- Dangling Pointer & Macro|Timecomplexity :- O(1) |
+
+---
+
+### Question 01:
+- **Topic**: Array Sum  
+- **Time Complexity**: O(n)
+
+---
+
+### Question 02:
+- **Topic**: Prime Number Check  
+- **Time Complexity**: O(n)
+
+---
+
+### Question 03:
+- **Topic**: Factorial (Recursion)  
+- **Time Complexity**: O(n)
+
+---
+
+### Question 04:
+- **Topic**: Diamond Pattern  
+- **Time Complexity**: O(n²)
+
+---
+
+### Question 05:
+- **Topic**: Armstrong Numbers  
+- **Time Complexity**: O(k × log n)
+
+---
+
+### Question 06:
+- **Topic**: GCD & LCM  
+- **Time Complexity**: O(log min(a, b))
+
+---
+
+### Question 07:
+- **Topic**: Decimal to Binary  
+- **Time Complexity**: O(log n)
+
+---
+
+### Question 08:
+- **Topic**: Matrix Multiplication  
+- **Time Complexity**: O(n³)
+
+---
+
+### Question 09:
+- **Topic**: Magic Square Validation  
+- **Time Complexity**: O(n²)
+
+---
+
+### Question 10:
+- **Topic**: Dangling Pointer & Macro  
+- **Time Complexity**: O(1)
 
 ---
 
